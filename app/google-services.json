@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250116090814",
+    "firebase_url": "https://try-xo.firebaseio.com",
+    "project_id": "try-xo",
+    "storage_bucket": "try-xo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250116090814:android:295a2ab714a996082267ef",
+        "android_client_info": {
+          "package_name": "co.akshar.tryxo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250116090814-o2hf21u756vdelelk53s5dknm6vbg1ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.akshar.tryxo",
+            "certificate_hash": "692e36e4e99e9927ea1836f3a18bf90a825d7fdb"
+          }
+        },
+        {
+          "client_id": "250116090814-8mdprle5cs1gvsa3b060938dctu6m7q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOnHhCBvF9WUqHpodSBCC3yy_Y8jpcaec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250116090814-8mdprle5cs1gvsa3b060938dctu6m7q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
